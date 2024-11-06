@@ -1,7 +1,357 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+LaLiga TV BAR HD,LaLiga TV BAR HD
+DAZN LaLiga HD,DAZN LaLiga HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+DAZN LaLiga HD,DAZN LaLiga FULL HD
+DAZN LaLiga 2 HD,DAZN LALIGA 2 FULL HD
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2
+Movistar Plus+ HD,Movistar Plus+ HD
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Vamos HD,M+ Vamos HD
+M+ Ellas Vamos HD,M+ Ellas Vamos HD
+M+ Deportes HD,M+ Deportes HD
+M+ Deportes 2 HD,M+ Deportes 2 HD
+M+ Deportes 3,M+ Deportes 3
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+Eurosport 1 HD,Eurosport 1 HD
+Eurosport 2,Eurosport 2
+DAZN F1 HD,F1 HD
+NBA.TV.HDTV.(NBA.HD).us,NBA
+SUPER TENNIS
+Tennis.Channel.HDTV.(TNNSHD).us,Tennis Channel
+La 1 HD,LA 1 HD
+La 2,LA 2 HD
+Antena 3 HD,ANTENA 3 HD
+Telecinco HD,TELECINCO HD
+La Sexta HD,LA SEXTA HD
+Nova,NOVA
+Neox,NEOX
+Aragón TV Internacional,ARAGON TV INT
+Canal Sur HD,CANAL SUR HD
+CANAL SUR 2 HD
+7TV MALAGA HD
+Andalucía TV,AndaluciaTV
+BOM Cine,BOM
+TRECE,TRECE
+Mega,Mega
+DMAX,DMAX
+CANAL MALAGA HD
+Atreseries,atreseries HD
+DKISS,DKISS
+Ten,TEN
+Be Mad,BeMad tv HD
+Paramount Network,PARAMOUNT NETWORK
+Somos,SOMOS
+M+ Copa del Rey,M+ Copa del Rey 4k
+La 1 HD,LA 1 4K
+La 2,LA 2 4K
+Antena 3 HD,ANTENA 3 4K
+Cuatro HD,CUATRO 4K
+Telecinco HD,TELECINCO 4K
+La Sexta HD,LA SEXTA 4K
+M+ Cine HD,M+ Cine 4k
+M+ Acción HD,M+ ACCION 4K
+M+ Comedia HD,M+ COMEDIA 4K
+M+ Drama HD,M+ DRAMA 4K
+M+ Series HD,M+ SERIES 4K
+AMC HD,AMC 4K
+M+ Originales HD,M+ Originales 4K
+M+ Vamos HD,M+  VAMOS 4K
+M+ LaLiga TV HD,M+ LALIGATV 4K
+DAZN LaLiga HD,DAZN LaLiga 4K
+M+ Liga de Campeones HD,M+ LCAMPEONES 4K
+DAZN F1 HD,DAZN F1 4K
+Eurosport 1 HD,EUROSPORT 1 4K
+M+ Golf HD,M+ GOLF 4K
+M+ Cine Del Mundo 4K 1
+M+ Cine Del Mundo 4K 2
+M+ Copa del Rey,M+ Copa del Rey FULL HD
+24 Horas,24 HORAS FULL HD
+La 1 HD,LA 1 FULL HD
+La 2,La 2 FULL HD
+Antena 3 HD,ANTENA 3 FULL HD
+Cuatro HD,CUATRO FULL HD
+Telecinco HD,TELECINCO FULL HD
+La Sexta HD,LA SEXTA FULL HD
+Aragón TV,ARAGON TV FULL HD
+Neox,NEOX FULL HD
+Nova,NOVA FULL HD
+M+ Cine HD,M+ Cine FULL HD
+M+ Indie HD,M+ Indie FULL HD
+M+ Acción HD,M+ ACCION FULL HD
+M+ Drama HD,M+ DRAMA FULL HD
+M+ Comedia HD,M+ COMEDIA FULL HD
+M+ Clásicos HD,M+ CLASICOS FULL HD
+M+ Cine Español,M+ Cine Espa  ol FULL HD
+M+ Originales HD,M+ Originales FULL HD
+M+ Terror,M+ TERROR FULL HD
+La Resistencia 24H,M+ La Resistencia FULL HD
+TCM HD,TCM FULL HD
+AXN HD,AXN FULL HD
+AMC Break,AMC BREAK FULL HD
+AMC Crime,AMC CRIME FULL HD
+Calle 13 HD,CALLE 13 FULL HD
+FOX,FOX FULL HD
+M+ Series HD,M+ SERIES FULL HD
+SyFy HD,SYFY FULL HD
+Warner TV HD,WARNERTV FULL HD
+Paramount Network,PARAMOUNT FULL HD
+Be Mad,BE MAD FULL HD
+Comedy Central HD,COMEDYCENTRAL FULL HD
+Cosmo HD,COSMO FULL HD
+Divinity,DIVINITY FULL HD
+Energy,ENERGY FULL HD
+M+ Ellas Vamos HD,M+ ELLAS FULL HD
+El Toro TV,MUNDO TORO FULL HD
+M+ Vamos HD,M+ VAMOS FULL HD
+M+ LaLiga TV HD,M+ LALIGA TV FULL HD
+M+ LaLiga TV 2 HD,M+ LALIGA TV 2 FULL HD
+LaLiga TV Hypermotion HD,LALIGA TV HYPERMOTION FULL HD
+LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2 FULL HD
+LaLiga TV Hypermotion 3,LALIGA TV HYPERMOTION 3 FULL HD
+M+ Liga de Campeones HD,M+ LCAMPEONES FULL HD
+M+ Liga de Campeones 2 HD,M+ LCAMPEONES 2 FULL HD
+M+ Liga de Campeones 3 HD,M+ LCAMPEONES 3 FULL HD
+Movistar Plus+ HD,Movistar Plus+ FULL HD
+Movistar Plus+ 2 HD,Movistar Plus+2 FULL HD
+DAZN 1 HD,DAZN 1 FULL HD
+DAZN 2 HD,DAZN 2 FULL HD
+DAZN 3 HD,DAZN 3 FULL HD
+DAZN 4 HD,DAZN 4 FULL HD
+DAZN F1 HD,DAZN F1 FULL HD
+M+ Deportes HD,M+ DEPORTES FULL HD
+M+ Deportes 2 HD,M+ DEPORTES2 FULL HD
+Eurosport 1 HD,EUROSPORT 1 FULL HD
+Eurosport 2,EUROSPORT 2 FULL HD
+M+ Golf HD,M+ GOLF FULL HD
+M+ Golf 2 HD,M+ GOLF 2 FULL HD
+GOL PLAY,GOL PLAY FULL HD
+Teledeporte,TELEDEPORTE FULL HD
+Real Madrid TV,Realmadrid TV FULL HD
+Canal Cocina,CANAL COCINA FULL HD
+Sundance TV,SUNDANCE TV FULL HD
+M+ Documentales HD,M+Documentales FULL HD
+National Geographic HD,NAT GEO FULL HD
+Nat Geo Wild HD,NAT GEO WILD FULL HD
+Decasa,CANAL DECASA FULL HD
+Odisea,CANAL ODISEA FULL HD
+Caza y Pesca HD,CAZAYPESCA FULL HD
+Discovery,DISCOVERY FULL HD
+Historia,HISTORIA FULL HD
+Iberalia TV,IBERALIA TV FULL HD
+MTV España,MTV ESPANA FULL HD
+Baby TV,BABY TV FULL HD
+Boing,BOING FULL HD
+Enfamilia,ENFAMILIA FULL HD
+Clan,CLAN TVE FULL HD
+Disney Channel HD,DISNEY CH FULL HD
+Disney Junior,DISNEY JR FULL HD
+Nick JR,NICK JR FULL HD
+Nickelodeon HD,NICKELODEON FULL HD
+Dreamworks HD,DreamWorks FULL HD
+M+ Cine HD,M+ CINE HD
+M+ Indie HD,M+ Indie HD
+M+ Acción HD,M+ ACCION HD
+M+ Comedia HD,M+ COMEDIA HD
+M+ Drama HD,M+ DRAMA HD
+M+ Cine Español,M+ Cine Espagnol
+M+ Clásicos HD,M+ CLASICOS HD
+M+ Terror,M+ TERROR
+Canal Hollywood HD,HOLLYWOOD
+TCM HD,TCM
+Odisea,CANAL ODISEA
+National Geographic HD,NAT GEO
+Nat Geo Wild HD,NAT GEO WILD
+Discovery,DISCOVERY
+Historia,HISTORIA
+Decasa,CANAL DECASA
+Caza y Pesca HD,CAZAyPESCA HD
+Iberalia TV,IBERALIA TV
+M+ Originales HD,M+ Originales HD
+M+ Series HD,M+ SERIES HD
+AMC HD,AMC HD
+AMC Break,AMC BREAK
+AMC Crime,AMC CRIME
+AXN HD,AXN HD
+AXN Movies HD,AXN MOVIES HD
+SyFy HD,SYFY
+Calle 13 HD,CALLE 13 HD
+Paramount Network,PARAMOUNT
+Warner TV HD,WARNERTV
+El Toro TV,MUNDO TORO HD
+El Toro TV,MUNDO TORO HD +
+M+ Ellas Vamos HD,M+ ELLAS  V HD
+La Resistencia 24H,M+ La Resistencia
+Comedy Central HD,COMEDYCENTRAL
+Be Mad,BE MAD HD
+Cosmo HD,COSMO
+Canal Cocina,CANAL COCINA
+Divinity,DIVINITY
+Energy,ENERGY
+Sundance TV,SUNDANCE TV
+M+ Copa del Rey,M+ Copa del Rey SD
+M+ Copa del Rey,M+ Copa del Rey HD
+M+ LaLiga TV HD,M+ LaLiga TV HD
+M+ LaLiga TV HD,M+ LaLigaTV
+M+ LaLiga TV HD,M+ LaLigaTVHD
+M+ LaLiga TV HD,M+ LaLigaTVHD+
+M+ LaLiga TV HD,M+ LaLigaTVHD 235
+M+ LALIGA TV 2 HD,M+ LaLigaTV 2 HD
+DAZN LaLiga HD,DAZN LaLiga
+DAZN LaLiga HD,DAZN LaLiga SD
+DAZN LaLiga HD,DAZN LaLiga HD
+DAZN LaLiga HD,DAZN LaLiga HD+
+DAZN LaLiga HD,DAZN LaLiga HD 235
+DAZN LaLiga 2 HD,DAZN LaLiga2 HD
+M+ Liga de Campeones HD,M+ LCAMPEONES +
+M+ Liga de Campeones HD,M+ LCAMPEONES SD
+M+ Liga de Campeones HD,M+ LCAMPEONES HD
+M+ Liga de Campeones HD,M+ LCAMPEONES HD+
+M+ Liga de Campeones 2 HD,M+ LCAMPEONES 2 HD
+M+ Liga de Campeones 3 HD,M+ LCAMPEONES 3 HD DOLO EVENTOS
+M+ Liga de Campeones 4,M+ LCAMPEONES 4 HD SOLO EVENTOS
+M+ Liga de Campeones 5,M+ LCAMPEONES 5 HD SOLO EVENTOS
+M+ Liga de Campeones 6,M+ LCAMPEONES 6 HD SOLO EVENTOS
+M+ Liga de Campeones 7,M+ LCAMPEONES 7 HD SOLO EVENTOS
+M+ Liga de Campeones 8,M+ LCAMPEONES 8 HD SOLO EVENTOS
+M+ Liga de Campeones 9,M+ LCAMPEONES 9 HD SOLO EVENTOS
+M+ Liga de Campeones 10,M+ LCAMPEONES 10 HD SOLO EVENTOS
+M+ Liga de Campeones 11,M+ LCAMPEONES 11 HD SOLO EVENTOS
+M+ Liga de Campeones 12,M+ LCAMPEONES 12 HD SOLO EVENTOS
+M+ Liga de Campeones 13,M+ LCAMPEONES 13 HD SOLO EVENTOS
+Movistar Plus+ HD,Movistar Plus+ HD
+Movistar Plus+ 2 HD,Movistar Plus+2 HD
+DAZN F1 HD,DAZN F1 HD
+DAZN 1 HD,DAZN 1 HD
+DAZN 2 HD,DAZN 2 HD
+DAZN 3 HD,DAZN 3 HD
+DAZN 4 HD,DAZN 4 HD
+M+ Deportes HD,M+ DEPORTESHD
+M+ Deportes 2 HD,M+ DEPORTES2 SOLO EVENTOS
+M+ Deportes 4,M+ DEPORTES4 SOLO EVENTOS
+M+ Deportes 5,M+ DEPORTES5 SOLO EVENTOS
+M+ Deportes 6,M+ DEPORTES6 SOLO EVENTOS
+M+ Deportes 7,M+ DEPORTES7 SOLO EVENTOS
+LaLiga TV Hypermotion HD,LALIGA TV HYPERMOTION HD
+LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2 HD
+LaLiga TV Hypermotion 3,LALIGA TV HYPERMOTION 3 HD
+M+ Vamos HD,M+ VAMOSHD
+Vamos BAR,M+  VAMOS BAR1 
+GOL PLAY,GOL PLAY
+Real Madrid TV,Realmadrid TV HD
+Teledeporte,TELEDEPORTE HD
+M+ Golf HD,M+ GOLF HD
+M+ Golf 2 HD,M+ GOLF 2 HD
+Eurosport 1 HD,EUROSPORT 1 HD
+Eurosport 2,EUROSPORT 2
+FEF TV 1 Grupo 1,FEF TV 1
+FEF TV 2 Grupo 1,FEF TV 2
+MTV España,MTV ESPANA
+Mezzo Live HD,MEZZO LIVE HD
+Classica HD,Classica
+Disney Channel HD,DISNEY CH HD
+Disney Junior,DISNEY JR
+Disney Junior Movies 1
+Disney Junior Movies 2
+Clan,CLAN TVE
+Boing,BOING
+Nickelodeon HD,NICKELODEON
+Nick JR,NICK JR
+Enfamilia,ENFAMILIA
+Baby TV,BABY TV
+Dreamworks HD,DreamWorks
+24 Horas,24 HORAS
+La 1 HD,LA 1 HD
+La 2,LA 2 HD
+Antena 3 HD,ANTENA 3 HD
+Cuatro HD,CUATRO HD
+Telecinco HD,TELECINCO HD
+La Sexta HD,LA SEXTA HD
+Nova,NOVA
+Neox,NEOX
+Aragón TV Internacional,ARAGON TV INT
+Canal Sur HD,CANAL SUR HD
+Andalucía TV,AndaluciaTV
+BOM Cine,BOM
+TRECE,TRECE
+Mega,mega
+DMAX,DMAX
+CANAL MALAGA HD
+DKISS,DKISS
+Ten,TEN
+Be Mad,BeMad tv HD
+Paramount Network,PARAMOUNT NETWORK
+Somos,SOMOS
+M+ Copa del Rey,M+Copa del Rey HD
+M+ LaLiga TV HD,M+ LaLigaTVSD
+M+ LaLiga TV HD,M+ LaLigaTVHD
+M+ LaLiga TV HD,M+ LaLigaTVHD+
+M+ LaLiga TV HD,M+ LaLigaTVHD 235
+M+ LALIGA TV 2 HD,M+ LaLiga 2 HD
+M+ LaLiga TV 3 HD,M+ laliga TV 3 HD
+DAZN LaLiga HD,DAZN LaLiga
+DAZN LaLiga HD,DAZN LaLiga SD
+DAZN LaLiga HD,DAZN LaLiga HD
+DAZN LaLiga HD,DAZN LaLiga HD+
+DAZN LaLiga HD,DAZN LaLiga HD 235
+DAZN LaLiga 2 HD,DAZN LaLiga2 HD
+LaLiga TV Hypermotion HD,LALIGA TV HYPERMOTION HD
+LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2 HD
+LaLiga TV Hypermotion 3,LALIGA TV HYPERMOTION 3 HD
+M+ Liga de Campeones HD,M+ LCAMPEONES +
+M+ Liga de Campeones HD,M+ LCAMPEONES SD
+M+ Liga de Campeones HD,M+ LCAMPEONES HD+
+M+ Liga de Campeones 2 HDM+ LCAMPEONES 2 HD
+M+ Liga de Campeones 3 HD,M+ LCAMPEONES 3 HD SOLO EVENTOS
+M+ Liga de Campeones 5,M+LCAMPEON5
+M+ Liga de Campeones 6,M+LCAMPEON6
+M+ Liga de Campeones 8,M+LCAMPEON8
+M+ Liga de Campeones 9,M+LCAMPEON9
+M+ Liga de Campeones 10,M+LCAMPEON10
+M+ Liga de Campeones 11,M+LCAMPEON11
+M+ Liga de Campeones 12,M+LCAMPEON12
+M+ Liga de Campeones 13,M+LCAMPEON13
+Movistar Plus+ HD,Movistar Plus+ HD
+Movistar Plus+ 2 HD,Movistar Plus+2 HD
+DAZN F1 HD,DAZN F1 HD
+DAZN 1 HD,DAZN 1 HD
+DAZN 2 HD,DAZN 2 HD
+DAZN 3 HD,DAZN 3 HD
+DAZN 4 HD,DAZN 4 HD
+Eurosport 1 HD,EUROSPORT 1 HD
+Eurosport 2,EUROSPORT2HD
+M+ Deportes HD,M+ DEPORTESHD
+M+ Deportes 2 HD,M+ DEPORTES2HD  SOLO EVENTOS 
+M+ Deportes 3,M+ DEPORTES3 SOLO EVENTOS 
+M+ Deportes 4,M+ DEPORTES4 SOLO EVENTOS 
+M+ Deportes 5,M+ DEPORTES5 SOLO EVENTOS 
+M+ Deportes 6,M+ DEPORTES6 SOLO EVENTOS 
+M+ Deportes 7,M+ DEPORTES7 SOLO EVENTOS
+M+ Vamos HD,M+  VAMOSHD
+GOL PLAY,GOL PLAY
+Real Madrid TV,Realmadrid TV HD
+Teledeporte,TELEDEPORTE HD
+M+ Golf HD,M+ GOLF HD
+M+ Golf 2 HD,M+ GOLF 2 HD
+Eurosport 2,EUROSPORT 2
+FEF TV 1 Grupo 1,FEF TV 1
+FEF TV 2 Grupo 1,FEF TV 2
+DARK,M+ Dark HD
+M+ Cine HD,M+ Cine HD
+M+ Indie HD,M+ Indie HD
+M+Ficcion Premium
+M+ Acción HD,M+ ACCION HD
+M+ Ficcional n 2 HD
+M+ Comedia HD,M+ COMEDIA HD
+M+ Drama HD,M+ DRAMA HD
+M+ Cine Español,M+ Cine Espagnol
+M+ Clásicos HD,M+ CLASICOS HD
+M+ Terror,M+ TERROR
+Canal Hollywood HD,HOLLYWOOD
+TCM HD,TCM
