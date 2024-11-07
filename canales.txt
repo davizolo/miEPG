@@ -24,7 +24,6 @@ Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 DAZN F1 HD,F1 HD
 NBA.TV.HDTV.(NBA.HD).us,NBA
-SUPER TENNIS
 Tennis.Channel.HDTV.(TNNSHD).us,Tennis Channel
 La 1 HD,LA 1 HD
 La 2,LA 2 HD
@@ -36,7 +35,6 @@ Neox,NEOX
 Aragón TV Internacional,ARAGON TV INT
 Canal Sur HD,CANAL SUR HD
 CANAL SUR 2 HD
-7TV MALAGA HD
 Andalucía TV,AndaluciaTV
 BOM Cine,BOM
 TRECE,TRECE
@@ -258,8 +256,6 @@ Mezzo Live HD,MEZZO LIVE HD
 Classica HD,Classica
 Disney Channel HD,DISNEY CH HD
 Disney Junior,DISNEY JR
-Disney Junior Movies 1
-Disney Junior Movies 2
 Clan,CLAN TVE
 Boing,BOING
 Nickelodeon HD,NICKELODEON
@@ -283,7 +279,6 @@ BOM Cine,BOM
 TRECE,TRECE
 Mega,mega
 DMAX,DMAX
-CANAL MALAGA HD
 DKISS,DKISS
 Ten,TEN
 Be Mad,BeMad tv HD
