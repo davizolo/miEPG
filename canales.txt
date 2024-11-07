@@ -56,26 +56,26 @@ Antena 3 HD,ANTENA 3 4K
 Cuatro HD,CUATRO 4K
 Telecinco HD,TELECINCO 4K
 La Sexta HD,LA SEXTA 4K
-M+ Cine HD,M+ Cine 4k
-M+ Acción HD,M+ ACCION 4K
+M+ Cine HD,M+ Cine 4K
+M+ Acción HD,M+  4K
 M+ Comedia HD,M+ COMEDIA 4K
 M+ Drama HD,M+ DRAMA 4K
 M+ Series HD,M+ SERIES 4K
 AMC HD,AMC 4K
 M+ Originales HD,M+ Originales 4K
 M+ Vamos HD,M+  VAMOS 4K
-M+ LaLiga TV HD,M+ LALIGATV 4K
+M+ LaLiga TV HD,M+ LaLigaTV 4K
 DAZN LaLiga HD,DAZN LaLiga 4K
 M+ Liga de Campeones HD,M+ LCAMPEONES 4K
 DAZN F1 HD,DAZN F1 4K
-Eurosport 1 HD,EUROSPORT 1 4K
-M+ Golf HD,M+ GOLF 4K
+Eurosport 1 HD, EUROSPORT 1 4K
+M+ Golf HD, M+ GOLF 4K 
 M+ Cine Del Mundo 4K 1
 M+ Cine Del Mundo 4K 2
 M+ Copa del Rey,M+ Copa del Rey FULL HD
 24 Horas,24 HORAS FULL HD
 La 1 HD,LA 1 FULL HD
-La 2,La 2 FULL HD
+La 2,LA 2 FULL HD
 Antena 3 HD,ANTENA 3 FULL HD
 Cuatro HD,CUATRO FULL HD
 Telecinco HD,TELECINCO FULL HD
@@ -85,7 +85,7 @@ Neox,NEOX FULL HD
 Nova,NOVA FULL HD
 M+ Cine HD,M+ Cine FULL HD
 M+ Indie HD,M+ Indie FULL HD
-M+ Acción HD,M+ ACCION FULL HD
+M+ Acción HD,M+  FULL HD
 M+ Drama HD,M+ DRAMA FULL HD
 M+ Comedia HD,M+ COMEDIA FULL HD
 M+ Clásicos HD,M+ CLASICOS FULL HD
@@ -142,7 +142,7 @@ National Geographic HD,NAT GEO FULL HD
 Nat Geo Wild HD,NAT GEO WILD FULL HD
 Decasa,CANAL DECASA FULL HD
 Odisea,CANAL ODISEA FULL HD
-Caza y Pesca HD,CAZAYPESCA FULL HD
+Caza y Pesca HD,CAZAyPESCA FULL HD
 Discovery,DISCOVERY FULL HD
 Historia,HISTORIA FULL HD
 Iberalia TV,IBERALIA TV FULL HD
@@ -158,7 +158,7 @@ Nickelodeon HD,NICKELODEON FULL HD
 Dreamworks HD,DreamWorks FULL HD
 M+ Cine HD,M+ CINE HD
 M+ Indie HD,M+ Indie HD
-M+ Acción HD,M+ ACCION HD
+M+ Acción HD,M+  HD
 M+ Comedia HD,M+ COMEDIA HD
 M+ Drama HD,M+ DRAMA HD
 M+ Cine Español,M+ Cine Espagnol
@@ -347,7 +347,7 @@ DARK,M+ Dark HD
 M+ Cine HD,M+ Cine HD
 M+ Indie HD,M+ Indie HD
 M+Ficcion Premium
-M+ Acción HD,M+ ACCION HD
+M+ Acción HD,M+  HD
 M+ Ficcional n 2 HD
 M+ Comedia HD,M+ COMEDIA HD
 M+ Drama HD,M+ DRAMA HD
@@ -356,3 +356,6 @@ M+ Clásicos HD,M+ CLASICOS HD
 M+ Terror,M+ TERROR
 Canal Hollywood HD,HOLLYWOOD
 TCM HD,TCM
+CanalSurA.TV,CANAL SUR HD
+FDF.TV,FDF FULL HD
+FDF.TV,FDF
