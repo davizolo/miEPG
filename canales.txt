@@ -34,13 +34,11 @@ Nova,NOVA
 Neox,NEOX
 Aragón TV Internacional,ARAGON TV INT
 Canal Sur HD,CANAL SUR HD
-CANAL SUR 2 HD
 Andalucía TV,AndaluciaTV
 BOM Cine,BOM
 TRECE,TRECE
 Mega,Mega
 DMAX,DMAX
-CANAL MALAGA HD
 Atreseries,atreseries HD
 DKISS,DKISS
 Ten,TEN
@@ -341,9 +339,7 @@ FEF TV 2 Grupo 1,FEF TV 2
 DARK,M+ Dark HD
 M+ Cine HD,M+ Cine HD
 M+ Indie HD,M+ Indie HD
-M+Ficcion Premium
 M+ Acción HD,M+  HD
-M+ Ficcional n 2 HD
 M+ Comedia HD,M+ COMEDIA HD
 M+ Drama HD,M+ DRAMA HD
 M+ Cine Español,M+ Cine Espagnol
