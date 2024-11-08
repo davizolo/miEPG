@@ -350,3 +350,4 @@ TCM HD,TCM
 CanalSurA.TV,CANAL SUR HD
 FDF.TV,FDF FULL HD
 FDF.TV,FDF
+SuperTennis.DTT.it,SuperTennis.DTT.it
