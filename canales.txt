@@ -1,6 +1,7 @@
 LaLiga TV BAR HD,LaLiga TV BAR HD
 M+ LaLiga TV HD,M+ LALIGA TV HD
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
+M+ LaLiga TV 2 HD,M+ LaLigaTV 2 HD
 DAZN LaLiga HD,DAZN LaLiga HD
 DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
 DAZN LaLiga HD,DAZN LaLiga FULL HD
