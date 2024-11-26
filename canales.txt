@@ -47,7 +47,7 @@ Ten,TEN
 Be Mad,BeMad tv HD
 Paramount Network,PARAMOUNT NETWORK
 Somos,SOMOS
-M+ Copa del Rey,M+ Copa del Rey 4k
+M+ Copa del Rey,M+ Copa del Rey
 La 1 HD,LA 1 4K
 La 2,LA 2 4K
 Antena 3 HD,ANTENA 3 4K
