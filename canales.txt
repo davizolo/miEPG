@@ -64,6 +64,7 @@ M+ Originales HD,M+ Originales 4K
 M+ Vamos HD,M+  VAMOS 4K
 M+ LaLiga TV HD,M+ LaLigaTV 4K
 DAZN LaLiga HD,DAZN LaLiga 4K
+M+ Copa del Rey,M+ Copa del Rey 4k
 M+ Liga de Campeones HD,M+ LCAMPEONES 4K
 DAZN F1 HD,DAZN F1 4K
 Eurosport 1 HD, EUROSPORT 1 4K
